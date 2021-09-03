@@ -15,7 +15,8 @@ Read the scripts, im dumpass.
 Doesn't work at all, wether with an bool neither an int  
                             if (!VEHICLE::IS_TAXI_LIGHT_ON(l_115)) {  
                                 VEHICLE::SET_TAXI_LIGHTS(l_115, 1);  
-                            }  
+                            }
+Still no luck getting this native to work, I wouldn't bother wasting time on it.
 ```
 
 ## Parameters
